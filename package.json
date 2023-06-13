@@ -1,0 +1,24 @@
+{
+  "name": "cart",
+  "version": "1.0.0",
+  "description": "For managing the products",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Munnashahare/cart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Munnashahare/cart/issues"
+  },
+  "homepage": "https://github.com/Munnashahare/cart#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
